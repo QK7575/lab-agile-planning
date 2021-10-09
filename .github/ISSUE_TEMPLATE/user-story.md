@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: User Story template
+about: Standard User Story template
 title: ''
 labels: ''
 assignees: QK7575
